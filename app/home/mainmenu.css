@@ -1,0 +1,13 @@
+li {
+    font-size: medium;
+     font-family: monospace;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color:white;  
+}
+
+div.panel-heading {
+   font-size: x-large; 
+}
